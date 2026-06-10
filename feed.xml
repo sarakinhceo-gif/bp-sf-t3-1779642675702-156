@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 강남 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-156.vercel.app</link>
-  <description><![CDATA[마포 성우이벤트 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Wed, 27 May 2026 23:06:44 GMT</pubDate>
-  <lastBuildDate>Wed, 27 May 2026 23:06:44 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-156.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[성우이벤트]]></title>
+  <link>https://bp-sf-t3-1779642675702-156.netlify.app</link>
+  <description><![CDATA[성우이벤트 - 강남 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 17:07:45 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 17:07:45 GMT</lastBuildDate>
+  <atom:link href="https://bp-sf-t3-1779642675702-156.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 강남 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-156.vercel.app/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-156.vercel.app/</guid>
-      <description><![CDATA[마포 성우이벤트 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Wed, 27 May 2026 23:06:44 GMT</pubDate>
+      <title><![CDATA[강남 셔츠룸 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://bp-sf-t3-1779642675702-156.netlify.app/posts/review-002-rceck.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-156.netlify.app/posts/review-002-rceck.html</guid>
+      <description><![CDATA[제목: 창작한 제목 | The Reveal of Good Smile's Runer Changes Unveiled 아, 진짜... 굿스마일 컴퍼니의 오리지널 캐릭터 시리즈 런너 구성 변경과 금형 수정 이력은 엄청난 수수께끼와 숨겨진 이야기가 담긴 과정이었습니다. ## 소]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[강남 셔츠룸 관련 추천 정보 — 놓치면 후회할 꿀팁]]></title>
+      <link>https://bp-sf-t3-1779642675702-156.netlify.app/posts/t3link-001-rceck.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-156.netlify.app/posts/t3link-001-rceck.html</guid>
+      <description><![CDATA[제목: 강남 셔츠룸에서의 원단 선택 참사와 그 이후 아, 진짜... 코미케에서 특정 캐릭터를 연기하려고 했지만, 원단 선택에 실패하면서 큰 참사를 겪었습니다. 그래서 오늘은 올바른 소재 선택 가이드와 함께, 잘못된 선택의 비효율을 살펴보겠습니다. ### 원단 선택 과정]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
